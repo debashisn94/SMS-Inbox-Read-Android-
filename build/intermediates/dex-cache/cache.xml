@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Debashis/AndroidStudioProjects/sms/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="12bf4d219721daa5a514870abd77feeada2c6ba2">
+        <dex dex="/Users/Debashis/AndroidStudioProjects/sms/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_37bcddc8a5420bd1f1da06a21fefe00eaa0af5ca/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Debashis/AndroidStudioProjects/sms/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ddb630901f7a3a068a2528d971c399cd67d7f854">
+        <dex dex="/Users/Debashis/AndroidStudioProjects/sms/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9871d64b16c60c464c0713d836f8670d66facf71/classes.dex" />
+    </item>
+
+</items>

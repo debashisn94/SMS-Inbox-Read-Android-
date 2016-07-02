@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent" android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout android:id="@+id/linearLayout1"
+		android:layout_width="match_parent" android:layout_weight="0"
+		android:layout_height="wrap_content">
+		<Button android:text="Inbox" android:id="@+id/btnInbox"
+			android:layout_height="wrap_content" android:layout_weight="0.5"
+			android:layout_width="match_parent"></Button>
+		<Button android:text="Sent Box" android:id="@+id/btnSentBox"
+			android:layout_height="wrap_content" android:layout_weight="0.5"
+			android:layout_width="match_parent"></Button>
+		<Button android:layout_weight="0.5" android:layout_height="wrap_content"
+			android:id="@+id/btnDraft" android:text="Draft" android:layout_width="match_parent"></Button>
+	</LinearLayout>
+	<ListView android:layout_width="match_parent"
+		android:layout_weight="1" android:layout_height="match_parent"
+		android:id="@+id/lvMsg"></ListView>
+
+</LinearLayout>

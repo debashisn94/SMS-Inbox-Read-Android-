@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Debashis/AndroidStudioProjects/sms/app/build/intermediates/res/merged/debug/layout/messagebox.xml",
+        "source": "/Users/Debashis/AndroidStudioProjects/sms/app/src/main/res/layout/messagebox.xml"
+    },
+    {
+        "merged": "/Users/Debashis/AndroidStudioProjects/sms/app/build/intermediates/res/merged/debug/layout/row.xml",
+        "source": "/Users/Debashis/AndroidStudioProjects/sms/app/src/main/res/layout/row.xml"
+    }
+]
